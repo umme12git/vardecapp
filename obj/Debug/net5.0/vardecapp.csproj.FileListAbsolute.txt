@@ -1,0 +1,16 @@
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\vardecapp.exe
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\vardecapp.deps.json
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\vardecapp.runtimeconfig.json
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\vardecapp.runtimeconfig.dev.json
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\vardecapp.dll
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\ref\vardecapp.dll
+C:\Users\unnip\repos\vardecapp\bin\Debug\net5.0\vardecapp.pdb
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.csproj.AssemblyReference.cache
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.AssemblyInfoInputs.cache
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.AssemblyInfo.cs
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.csproj.CoreCompileInputs.cache
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.dll
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\ref\vardecapp.dll
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.pdb
+C:\Users\unnip\repos\vardecapp\obj\Debug\net5.0\vardecapp.genruntimeconfig.cache
